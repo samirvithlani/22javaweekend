@@ -1,0 +1,19 @@
+array
+
+pass array in method param
+and sort it
+
+eg:
+
+addSalary(float sal[]){}
+
+printsalary(){
+
+	print here
+}
+sortsalary(){
+
+sort salary here...
+}
+
+menu driven...

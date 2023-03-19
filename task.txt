@@ -17,3 +17,9 @@ sort salary here...
 }
 
 menu driven...
+
+create method startsWith
+create method endssWith
+
+insert char i
+repete....count... 

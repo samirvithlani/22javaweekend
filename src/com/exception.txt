@@ -1,0 +1,37 @@
+//ERROR --> Exception
+// error --> syntax  compile time...
+
+excpetoin -> developer logical or system problem 
+10/0 run time and also compile
+
+error must be resolved...
+exception needs to handle....
+
+how to handle exception
+
+1) try catch and finally block
+2) throws keyword..
+
+
+							Throwable (I)
+			Error                                    Exception
+			no child...									RuntimException
+														Arithmatic Excepton
+														IOexcetion....
+														
+														
+TYPES OF EXCEPTION IN JAVA
+
+1)comile time exception  checkd exeption
+2)runtime exception     uncheckd exception
+
+
+
+
+
+														
+														
+																						
+
+
+ 

@@ -2,3 +2,18 @@ non sattic method can be called other non static method without object....
 non sattic method can be called other  static method with object only...
 static metjod can be called inside static method without object..
 static metjod can be called inside non static method without object..
+
+					
+					File java.io.File
+
+
+high level class                  low level class
+FileRead							  INputSTream
+FileWriter							  outputStream
+BufferedReadr
+BufferdWriter
+...
+
+char or word and line...               bytes...
+
+

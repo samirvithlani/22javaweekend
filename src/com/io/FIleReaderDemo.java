@@ -9,7 +9,7 @@ public class FIleReaderDemo {
 	public static void main(String[] args) {
 
 		try {
-			FileReader reader = new FileReader("royal.txt");
+			FileReader reader = new FileReader("C:\\Users\\Samir\\Desktop\\dictonry");
 			// int x = reader.read();
 			// System.out.println((char)x);
 			int c =0;

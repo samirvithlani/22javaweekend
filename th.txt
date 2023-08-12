@@ -17,3 +17,10 @@ BufferdWriter
 char or word and line...               bytes...
 
 
+Predicate interface
+
+fuctional type interface.... lambda operatioons
+boolean test
+
+
+
